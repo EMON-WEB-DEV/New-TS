@@ -5,7 +5,7 @@ type Vehicle = {
 };
 
 
-type Vehicle2 =  Vehicle;
+type Vehicle2 =   Vehicle;
 
 
 const vehicaleType : Vehicle2 =
