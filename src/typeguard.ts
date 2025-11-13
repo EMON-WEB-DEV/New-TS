@@ -1,4 +1,6 @@
-const Add = (num1 : number | string , num2 : number | string) =>{
+type Combinable = number | string ;
+
+const Add = (num1 : Combinable , num2 : Combinable) =>{
 
         if (typeof num1 === 'number' && typeof num2 === 'number'){
                         return num1 + num2;
