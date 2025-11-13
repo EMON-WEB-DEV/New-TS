@@ -8,7 +8,7 @@ type Vehicle = {
 type Vehicle2 =   Vehicle;
 
 
-const vehicaleType : Vehicle2 =
+const vehicaleType : Vehicle2  =
 {
         name : 'Car',
         wheels : 4,
